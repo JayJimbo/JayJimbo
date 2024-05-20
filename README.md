@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Lior
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning SQL, Excel, and Tableau
 
 <!---
 JayJimbo/JayJimbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
